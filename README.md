@@ -3,6 +3,7 @@ L'objectif de ce projet est de trouver des idées innovantes d’applications en
 
 
 Réalisation
+
 Analyse bivariées et multivariées
 Analyse de la variance : 
 Test de normalité (Pearson)
