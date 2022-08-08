@@ -4,8 +4,10 @@ L'objectif de ce projet est de trouver des idées innovantes d’applications en
 
 Réalisation
 
-Analyse bivariées et multivariées
+Analyse bivariées et multivariées; 
+
 Analyse de la variance : 
-Test de normalité (Pearson)
+Test de normalité (Pearson), 
 Test d'homogénéité (Levene)
+
 Analyse en composantes principales (ACP)
