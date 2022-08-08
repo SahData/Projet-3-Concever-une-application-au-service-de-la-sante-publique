@@ -11,3 +11,5 @@ Test de normalité (Pearson),
 Test d'homogénéité (Levene)
 
 Analyse en composantes principales (ACP)
+
+L’idée d’application : Nutri-Fromage
