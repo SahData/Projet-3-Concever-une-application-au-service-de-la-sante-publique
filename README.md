@@ -7,5 +7,5 @@ Réalisation
 Analyse bivariées et multivariées
 Analyse de la variance : 
 Test de normalité (Pearson)
-Test de homogénéité (Levene)
+Test d'homogénéité (Levene)
 Analyse en composantes principales (ACP)
